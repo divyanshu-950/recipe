@@ -24,7 +24,154 @@
         "step4": "Easy Spiced Syrup: Add 1 teaspoon Pure Vanilla Extract and 1/4 teaspoon Ground Cinnamon to 1 cup pancake syrup; stir well to mix. Serve warm, if desired."
       },
       "serving": "3 serving",
-      "Extra":""
+      "Extra": ""
+    },
+    {
+      "name": "Omelette",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/omlette.jpg",
+      "description": "Basic omelette Recipe",
+      "ingredients": {
+        "1": "2 eggs, beaten",
+        "2": "1 tsp butter",
+        "3": "pinch of black pepper",
+        "4": "salt to taste"
+      },
+      "time": {
+        "preptime": "5 min",
+        "cooktime": "5 min",
+        "total time": "10 min"
+      },
+      "steps": {
+        "step1": "Season the beaten eggs well with salt and pepper. Heat the oil and butter in a non-stick frying pan over a medium-low heat until the butter has melted and is foaming.",
+        "step2": "Pour the eggs into the pan, tilt the pan ever so slightly from one side to another to allow the eggs to swirl and cover the surface of the pan completely. Let the mixture cook for about 20 seconds then scrape a line through the middle with a spatula.",
+        "step3": "Tilt the pan again to allow it to fill back up with the runny egg. Repeat once or twice more until the egg has just set.",
+        "step4": "At this point you can fill the omelette with whatever you like – some grated cheese, sliced ham, fresh herbs, sautéed mushrooms or smoked salmon all work well. Scatter the filling over the top of the omelette and fold gently in half with the spatula. Slide onto a plate to serve."
+      },
+      "serving": "1 serving",
+      "Extra": ""
+    },
+    {
+      "name": "Potato Poha",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/poha.jpg",
+      "description": "Poha is flattened rice that is steam cooked with onions, spices and herbs. The word “poha” refers to the flattened rice itself and as well the dish made with it. These flattened rice flakes are also known as parched rice or beaten rice. They are considered to be nutritious & wholesome as they are got by minimally processing paddy.",
+      "ingredients": {
+        "1": "2.5 cup Poha (flattened rice)",
+        "2": "2 tablespoon Oil , divided",
+        "3": "2 tablespoon Peanuts, optional",
+        "4": "1/2 teaspoon Mustard Seeds (Rai), optional",
+        "5": "1/2 teaspoon Cumin seeds (Jeera), optional",
+        "6": "10-12 Curry Leaves (Kadi Patta)",
+        "7": "2 Green Chili Pepper, diced, adjust to taste)",
+        "8": "3/4 cup Onions, diced",
+        "9": "3/4 cup Potato, diced into 1/2-1 centimeter pieces",
+        "10": "1/4 teaspoon Ground Turmeric (Haldi powder)",
+        "11": "Salt to taste",
+        "12": "1 tablespoon Lime juice",
+        "13": "1 tablespoon Cilantro leaves (Corainder), chopped"
+      },
+      "time": {
+        "preptime": "10 min",
+        "cooktime": "15 min",
+        "total time": "25 min"
+      },
+      "steps": {
+        "step1": "Add poha to a strainer and rinse under running water until the water runs clear. Make sure all the poha is wet. Let it rest while you sauté the other ingredients",
+        "step2": "Heat a heavy bottom pan on medium-high heat. Add oil to the pan and let it heat.",
+        "step3": "(optional )Add the peanuts and saute for 1-2 minutes while stirring continuously. When they are roasted, take out in a plate and set aside.",
+        "step4": "Add cumin seeds and mustard seeds to the oil and let them sizzle.",
+        "step5": "Add the curry leaves and green chili pepper. Then, add the diced onions and stir well. Saute for a minute.",
+        "step6": "Add the diced potatoes. Mix well with the onions. Now cover the pan with a lid and cook on medium-low heat until the potatoes are cooked completely. Open the lid and stir. Break a potato piece with the spatula to ensure it is cooked well. (It is important to cut the potatoes into small pieces so they cook quickly in 3-4 minutes)",
+        "step7": "Add turmeric, salt, sugar, and poha to the pan. Mix gently until all the poha gets the yellow turmeric color. Change to low heat and cover the pan for 2 minutes. This helps to heat the poha.",
+        "step8": "Turn off the heat and open the lid. Sprinkle lime juice, add back the roasted peanuts (if using).",
+        "step9": "You can taste test and adjust salt as needed. Garnish with cilantro leaves and any optional garnishes.."     
+      },
+      "serving": "3 serving",
+      "Extra": ""
+    },
+    {
+      "name": "SCRAMBLED EGGS ON TOAST",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/scramble.jpg",
+      "description": "Fluffy scrambled eggs on toast are deliciously soft, custardy egg folds cooked with cheese and enjoyed on top of a crisp piece of buttered toast.",
+      "ingredients": {
+        "1": "Bread",
+        "2": "Butter",
+        "3": "Eggs",
+        "4": "Pepper",
+        "5": "Salt",
+        "6": "Cheese, (Optional)"
+      },
+      "time": {
+        "preptime": "2 min",
+        "cooktime": "5 min",
+        "total time": "7 min"
+      },
+      "steps": {
+        "step1": "Whisk the eggs, salt, and pepper together in a bowl until well mixed.",
+        "step2": "Toast the bread in a toaster or on a skillet over medium heat until golden and slightly crisp. Butter the toast if desired.",
+        "step3": "Add the butter to a nonstick skillet on medium heat. Once the butter is melted, stir in the egg mixture. Using a silicone spatula, stir the eggs right away. Continue pushing/folding and moving the egg mixture slowly but constantly. Cook for 2 mins. The eggs should be a pile of custardy and soft scrambled egg folds. ",
+        "step4": "Add the cheese and continue stirring. Cook for an additional 30 seconds to 1 minute. Remove from heat. The eggs will continue to cook from residual heat once removed from the stove.{optional",
+        "step5": "Spoon the scrambled eggs on the prepared toast, top with chopped chives or parsley and enjoy warm."
+     
+      },
+      "serving": "1 serving",
+      "Extra": ""
+    },
+    {
+      "name": "EGG FRIED RICE",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/frice.jpg",
+      "description": "One of the best things about this top-rated dish is how easy it is to customize. Whatever you have on hand goes — chicken, shrimp, salmon, and kimchi all make mouthwatering additions to fried rice. Play and create one-of-a-kind fried rice dishes whether you're a vegetarian or meat lover.",
+      "ingredients": {
+        "1": "⅔ cup chopped baby carrots",
+        "2": "½ cup frozen green peas",
+        "3": "2 tablespoons vegetable oil",
+        "4": "1 clove garlic, minced, or to taste (Optional)",
+        "5": "2 large eggs",
+        "6": "3 cups leftover cooked and chilled white rice",
+        "7": "1 tablespoon soy sauce, or more to taste",
+        "8": "2 teaspoons sesame oil, or to taste (optional)"
+      },
+      "time": {
+        "preptime": "5 min",
+        "cooktime": "15 min",
+        "total time": "20 min"
+      },
+       "steps": {
+        "step1": "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander.",
+        "step2": "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables.",
+        "step3": "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."
+         },
+      "serving": "6 serving",
+      "Extra": ""
+    },
+    {
+      "name": "VEG SANDWICH",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/vsandwich.jpg",
+      "description": " A simple vegetable sandwich for breakfast and brunch that you can make under 15 mins. This veg sandwich is so delicious, sort of healthy & is devoid of sauces, chutney or cheese. Most sandwich recipes call for some or the other sauces, spreads or cheese. I do not stock up on any bottled spreads or sauces as most of these come with loads of creepy ingredients & additives to extend the shelf life.",
+      "ingredients": {
+        "1": "Bread",
+        "2": "2tbsp Mustard oil",
+        "3": "1/2 chopped Tomato",
+        "4": "1/2 chopped capsicum  & onion",
+        "5": "Handful of boiled corn",
+        "6": "Pav bhaji masala/chat masal"
+      },
+      "time": {
+        "preptime": "5 min",
+        "cooktime": "10 min",
+        "total time": "15 min"
+      },
+       "steps": {
+        "step1": "Smear butter or ghee on the bread and toast them until golden on one side and until firm on the other side. While you toast, chop or slice the veggies thinly.",
+        "step2": "Heat oil on a pan, Saute cumin until they crackle. Add garlic and fry until a good smell comes out. I did not have garlic so i used ginger garlic paste.",
+        "step3": "Add chopped,mashed tomato. sprinkle salt and mix",
+        "step4": "Cover and Cook on a medium heat until it turns compeletely soft",
+        "step5": " Add veggies. Saute on a medium to high flame until they are partially cooked. I do not cover and cook since mine gets cooked quickly. If your carrots are not tender, you may need to cover and cook. Sauteing on a high flame lends a smoky flavor.",
+        "step6": "Add pav bhaji masala or chat masala and coriander leaves. Pav bhaji masala works very well for this, if you do not have you can use kitchen king masala or garam masala like me. Adjust the salt and make sure the veggies are at least partially cooked.",
+        "step7": "Place the Toasted slices and transfer the veggie over them.if you wish to have cheese,then Sprinkle now",
+        "step8": "Place another slice of bread. Press down gently. If using cheese, toast it on a low heat without burning until the cheese melts. Alternately you can also grill in a sandwich maker." 
+         },
+      "serving": "2 serving",
+      "Extra": ""
     }
   ]
 }
