@@ -1,0 +1,30 @@
+{
+  "recipes": [
+    {
+      "name": "French Toast",
+      "image": "img/frenchToast.jpg",
+      "description": "Fluffy and tender on the inside and perfectly golden-brown on the outside, you'll always get the perfect French Toast with this recipe. You can make our quick and easy French Toast recipe with any hearty bread including sourdough, challah, or brioche. This French Toast recipe is fuss-free, making it the perfect breakfast for busy mornings. For more elevated options, explore our stuffed French toast, overnight French toast, and cinnamon French toast recipes.",
+      "ingredients": {
+        "1": "⅔ cup milk",
+        "2": "1 teaspoon vanilla extract (Optional)",
+        "3": "¼ teaspoon ground cinnamon (Optional)",
+        "4": "salt to taste",
+        "5": "6 thick slices bread",
+        "6": "1 tablespoon unsalted butter, or more as needed"
+      },
+      "time": {
+        "preptime": "5 min",
+        "cooktime": "5min",
+        "total time": "10min"
+      },
+      "steps": {
+        "step1": "To make this easy French toast recipe: Whisk egg, vanilla and cinnamon in shallow dish. Stir in milk.",
+        "step2": "Dip bread slices in egg mixture, turning to coat evenly on both sides",
+        "step3": "Cook bread slices on lightly greased nonstick griddle or skillet on medium heat until cooked through and browned on both sides. Serve with Easy Spiced Syrup (recipe follows), if desired. Voila, easy French toast.",
+        "step4": "Easy Spiced Syrup: Add 1 teaspoon Pure Vanilla Extract and 1/4 teaspoon Ground Cinnamon to 1 cup pancake syrup; stir well to mix. Serve warm, if desired."
+      },
+      "serving": "3 serving",
+      "Extra":""
+    }
+  ]
+}
