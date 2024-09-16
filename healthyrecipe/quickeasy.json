@@ -2,7 +2,7 @@
   "recipes": [
     {
       "name": "French Toast",
-      "image": "img/frenchToast.jpg",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/frenchToast.jpg",
       "description": "Fluffy and tender on the inside and perfectly golden-brown on the outside, you'll always get the perfect French Toast with this recipe. You can make our quick and easy French Toast recipe with any hearty bread including sourdough, challah, or brioche. This French Toast recipe is fuss-free, making it the perfect breakfast for busy mornings. For more elevated options, explore our stuffed French toast, overnight French toast, and cinnamon French toast recipes.",
       "ingredients": {
         "1": "⅔ cup milk",
